@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:menuCategory="container">
+        <item
+            android:id="@+id/action_map"
+            android:icon="@drawable/baseline_map_24"
+            android:title="peta"
+            app:showAsAction="ifRoom" />
+        <item
+            android:id="@+id/action_logout"
+            android:iconTint="?attr/colorOnPrimary"
+            android:title="@string/logout"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_language"
+            android:iconTint="?attr/colorOnPrimary"
+            android:title="@string/language"
+            app:showAsAction="never" />
+    </group>
+</menu>

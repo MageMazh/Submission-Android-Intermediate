@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="navy">#2D3D4F</color>
+    <color name="button_disable">#FFAD96D3</color>
+    <color name="button">#FF67568c</color>
+    <color name="toolbar_background">#FFc9bae2</color>
+</resources>

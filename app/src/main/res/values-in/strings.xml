@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">DicodingStory</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Halo, di sini Anda dapat menemukan beragam cerita yang telah diceritakan oleh para pengguna.</string>
+    <string name="title_welcome_page">Selamat datang di DicodingStory!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Temukan beragam cerita</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di DicodingStory.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="empty_text">Tidak ada data</string>
+    <string name="appwidget_text">Daftar cerita</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Upload</string>
+    <string name="toolbar_icon">ikon toolbar</string>
+    <string name="image">gambar</string>
+    <string name="new_story">Cerita Baru</string>
+    <string name="language">Bahasa</string>
+    <string name="logout">Logout</string>
+    <string name="error_email">Gunakan format email yang benar</string>
+    <string name="error_password">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="info_logout">Apakah anda yakin ingin logout dari akun ini?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="tidak_ada_data">Tidak ada data</string>
+    <string name="empty_image_warning">Gambar tidak boleh dikosongkan</string>
+    <string name="terjadi_kesalahan">Terjadi kesalahan </string>
+    <string name="tambah_story">Tambah story</string>
+    <string name="aktifkan_lokasi">Aktifkan lokasi</string>
+    <string name="coba_lagi">Coba lagi</string>
+</resources>

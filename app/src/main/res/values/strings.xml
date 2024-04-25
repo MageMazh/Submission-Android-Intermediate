@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">DicodingStory</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="signup">Register</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Hello, here you can find various stories that have been told by users.</string>
+    <string name="title_welcome_page">Welcome to DicodingStory!</string>
+    <string name="title_signup_page">First, complete your data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your data first</string>
+    <string name="title_login_page">Discover various stories</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Welcome to DicodingStory.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="empty_text">No data</string>
+    <string name="appwidget_text">Story list</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="toolbar_icon">Toolbar Icon</string>
+    <string name="image">image</string>
+    <string name="new_story">New Story</string>
+    <string name="language">Language</string>
+    <string name="logout">Logout</string>
+    <string name="error_email">Use the correct email format</string>
+    <string name="error_password">Password must not be less than 8 characters</string>
+    <string name="info_logout">Are you sure you want to log out of this account?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="tidak_ada_data">No data</string>
+    <string name="empty_image_warning">The image cannot be left blank</string>
+    <string name="terjadi_kesalahan">There is an error </string>
+    <string name="tambah_story">Add story</string>
+    <string name="aktifkan_lokasi">Enable location</string>
+    <string name="coba_lagi">Try again</string>
+</resources>
